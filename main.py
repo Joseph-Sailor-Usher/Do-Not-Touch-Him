@@ -5,10 +5,8 @@
     We change the "Do Not Touch Him" text to "You touched him" when the button is pressed, 
         and we display how long it took them to touch him in the menu
 '''
-import time
+
 import datetime
-import os
-import sys
 from tkinter import Tk, Label, Button, messagebox
 from PIL import Image, ImageTk
 #print(sys.executable)
